@@ -1,0 +1,20 @@
+{
+  "name": "fight-club-quotes",
+  "version": "1.0.0",
+  "description": "Quotes from the movie Fight Club (1999)",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soarez/fight-club-quotes"
+  },
+  "keywords": [
+    "Fight",
+    "Club",
+    "Quotes"
+  ],
+  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+Usage:
+
+    var json = require('fight-club-quotes');
